@@ -37,7 +37,7 @@ body:
   - type: input
     id: android
     attributes:
-      label: Android版本
+      label: 安卓版本
     validations:
       required: true
 
