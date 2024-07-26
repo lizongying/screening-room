@@ -1,5 +1,5 @@
 name: 問題反饋
-description: 使用過程中遇到的錯誤或不合理
+description: 使用過程中遇到的錯誤或不合理功能
 labels: [ "bug" ]
 title: "[BUG] "
 body:
