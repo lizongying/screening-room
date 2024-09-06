@@ -9,6 +9,4 @@
 local.properties
 
 /.kotlin/
-/benchmark/
-/frontend/
 /screeningroom/
