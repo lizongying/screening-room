@@ -20,6 +20,7 @@ body:
       label: 軟件版本
       description: 請選擇正在使用的版本
       options:
+        - v0.0.15
         - v0.0.14
         - v0.0.13
         - v0.0.12
